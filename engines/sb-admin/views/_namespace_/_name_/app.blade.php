@@ -18,6 +18,7 @@ $apiBase    = $request->getUriForPath("/{$base}~");
 
     <title>SB Admin | Dashboard</title>
 
+    <!-- start -->
     <!-- Bootstrap Core CSS -->
     <link href="{{ asset("{$assetsDir}/bootstrap/dist/css/bootstrap.min.css") }}" rel="stylesheet">
 
